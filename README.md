@@ -12,11 +12,8 @@
 | | |
 |-|-|
 | Age | 30 |
-| Speaks | Portuguese (native), English (fluent), German (beginner) |
-| Codes | Javascript, Typescript, Python, Go |
-| Libs & Frameworks | Next.js, React, Redux, Redux Saga, Jest, Styled Components, Styled JSX, Express, TailwindCSS |
-| Tools | Docker, Kubernetes, Spark, Kafka |
-| Cloud | Google Cloud, AWS, Azure |
+| Speaks | Portuguese (native), English (fluent), German (beginner), Russian (beginner) |
+| Codes | Javascript, Typescript, Go |
 
 ### Stats...
 <a href="https://leniac.dev/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=iamleniac&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=202020&theme=white" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamleniac&hide=html,jupyter%20notebook,java,objective-c,css,shell,dockerfile&hide_title=true&hide_border=true&layout=compact&langs_count=5&text_color=fff&icon_color=fff&bg_color=202020&theme=white" /></a>
